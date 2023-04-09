@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "core-js": "^3.30.0"
+  },
+  "type": "module"
+}
